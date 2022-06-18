@@ -22,5 +22,6 @@ Use npm start command for both of them after installation to start the project.
 - Realtime Online/Offline Status
 - Logging Out
 
-Thanks & Regards
-M Talha
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
